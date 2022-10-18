@@ -1,0 +1,16 @@
+
+.ans{
+    color:black
+}
+.gray{
+    color:gray
+}
+.makeFirst{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 3rem;
+    margin-bottom: 3rem;
+   
+}

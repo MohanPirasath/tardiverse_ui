@@ -1,0 +1,30 @@
+
+.Signup{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://images.unsplash.com/photo-1579360826591-2c98525b8dbb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGZsaWdodHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60");
+    /* height: 98vh; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+    /* padding-top: 1rem;
+    padding-bottom: 1rem; */
+}
+
+.container > h3 {
+    color: white;
+}
+
+
+.loginform{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+    color: rgb(184, 177, 171);
+}

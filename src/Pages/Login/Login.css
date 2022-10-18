@@ -1,0 +1,49 @@
+
+
+.Login{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://plus.unsplash.com/premium_photo-1661962354730-cda54fa4f9f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+    /* height: 98vh; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+    /* padding-top: 1rem;
+    padding-bottom: 1rem; */
+}
+
+.Aline{
+    display: flex;
+    justify-content: flex-start;
+    
+    /* flex-direction: ; */
+}
+/* .LoginImg{
+    background-image: url("https://images.unsplash.com/photo-1569839333583-7375336cde4b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1930&q=80");
+    height: 15rem;
+    width: 20rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+    
+    /* min-width: "20rem"; */
+    /* min-heigth:"20rem"; */
+
+
+.loginform{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+    color: rgb(184, 177, 171);
+}
+
+.loginform > h3 {
+    color: black;
+}

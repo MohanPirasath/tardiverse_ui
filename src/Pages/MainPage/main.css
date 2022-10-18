@@ -1,0 +1,49 @@
+.cards{
+    display: flex;
+    align-items: center;
+    /* flex-direction: ; */
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.card{
+    display: flex;
+    align-items: center;
+    /* flex-direction: ; */
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 3rem;
+}
+.makeAlin{
+    display: flex;
+    justify-content: space-between;
+}
+.makeAlins{
+    display: flex;
+    justify-content: space-between;
+}
+.Time{
+    font-weight: bolder;
+    color: black;
+    font-size: x-large;
+    /* margin: 1rem; */
+}
+.Tim{
+    font-weight:600;
+    color: black;
+    font-size: large;
+    margin: 1rem;
+}
+.Timing{
+    font-weight: bolder;
+    color: gray;
+    font-size: x-large;
+    /* margin: 0 3rem; */
+
+}
+.Timin{
+    font-weight: bolder;
+    color: gray;
+    font-size: large;
+    /* margin: 2rem; */
+
+}
