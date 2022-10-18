@@ -6,7 +6,7 @@ import ShowFlights from './ShowFlights';
 import "./main.css"
 
 
-export  const Api= "http://localhost:5000"
+export  const Api= "https://flightbooking-applicaton.herokuapp.com"
 
 export default function Main() {
     const[Flights,setFlights]=useState([]);

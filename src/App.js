@@ -12,7 +12,7 @@ import Logout from './Pages/Logout';
 import Payment from './Pages/Payment/Payment';
 
 
-export  const Api= "http://localhost:5000"
+export  const Api= "https://flightbooking-applicaton.herokuapp.com"
 
 function App() {
   return (

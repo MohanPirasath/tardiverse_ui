@@ -6,7 +6,7 @@ import ShowOffer from './ShowOffer';
 
 
 export default function Offers() {
-  const Api= "http://localhost:5000"
+  const Api= "https://flightbooking-applicaton.herokuapp.com"
 
 
   const[Flights,setFlights]=useState([]);

@@ -13,7 +13,7 @@ import * as yup from "yup"
 
 function Login(){
   const navigate = useNavigate()
-  const Api= "http://localhost:5000"
+  const Api= "https://flightbooking-applicaton.herokuapp.com"
 
 
 

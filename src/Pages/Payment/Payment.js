@@ -5,7 +5,7 @@ import { useEffect } from 'react';
 import './Payment.css'
 import { Button } from '@mui/material';
 
-export  const Api= "http://localhost:5000"
+export  const Api= "https://flightbooking-applicaton.herokuapp.com"
 
 export default function Payment() {
     const {id} = useParams() 
