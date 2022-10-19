@@ -142,7 +142,7 @@ export default function SelectTextFieldsDate({Todate}) {
     <Box
       component="form"
       sx={{
-        '& .MuiTextField-root': { m: .3, width: '17ch' },
+        '& .MuiTextField-root': { m: .3, width: '15ch' },
       }}
       noValidate
       autoComplete="off"

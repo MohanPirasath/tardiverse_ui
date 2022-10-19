@@ -69,7 +69,7 @@ export default function SelectTextFieldsMonth({Tomon}) {
     <Box
       component="form"
       sx={{
-        '& .MuiTextField-root': { m: .3, width: '17ch' },
+        '& .MuiTextField-root': { m: .3, width: '15ch' },
       }}
       noValidate
       autoComplete="off"

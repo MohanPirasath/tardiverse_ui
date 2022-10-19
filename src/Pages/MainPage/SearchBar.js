@@ -45,7 +45,7 @@ export default function SearchBar({setFrom,setTo,setdate,setmon,setyear}) {
               </h2>
               </div>
             </Card>
-            <Card sx={{minWidth:"27.4rem"}}>
+            <Card sx={{minWidth:"25rem"}}>
             <div>Date</div>
 <div className='setdates'>
 <SelectTextFieldsDate Todate={setdate}/>
