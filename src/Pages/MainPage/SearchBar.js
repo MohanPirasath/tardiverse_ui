@@ -22,7 +22,7 @@ export default function SearchBar({setFrom,setTo,setdate,setmon,setyear}) {
        <div className='makeparellel'>
         <Card  sx={{margin:"2rem",minHeight:"8rem"}}>
           <div className='SearchDiv'>
-            <Card sx={{minWidth:"28rem"}}>
+            <Card sx={{minWidth:"26rem"}}>
 
             <div className='SearchDetails'>
               <p className='paraSearch'>
@@ -34,7 +34,7 @@ export default function SearchBar({setFrom,setTo,setdate,setmon,setyear}) {
               </h2>
               </div>
             </Card>
-            <Card sx={{minWidth:"28rem"}}>
+            <Card sx={{minWidth:"26rem"}}>
 
             <div className='SearchDetails'>
               <p className='paraSearch'>
